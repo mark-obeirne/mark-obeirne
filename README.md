@@ -1,6 +1,6 @@
 # :books: Every day presents new learning opportunities
 
-👋 Hello, my name is Mark O'Beirne. Welcome to my Github profile. My portfolio is available at https://markobeirne.com/
+👋 Hello, my name is Mark O'Beirne. Welcome to my Github profile. My portfolio is available at https://markobeirne.com/ and provides an avenue to get in touch to discuss collaboration, opportunities, or to provide feedback.
 
 I enjoy learning and implementing what I have learned on projects, challenges, and mini-exercises. I am currently learning React and enjoy JavaScript, but I also enjoy working with Python because of the sheer range of opportunities and functionality that it presents.
 
